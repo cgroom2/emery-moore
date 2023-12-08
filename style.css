@@ -4,5 +4,6 @@ html{
 }
 
 body{
-  background-image: ;
+  background-image: URL("background-1.jpeg");
+  background-size: cover;
 }
